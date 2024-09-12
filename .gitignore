@@ -1,0 +1,44 @@
+.DS_Store
+thumbs.db
+.editorconfig
+license.txt
+readme.rst
+contributing.md
+
+
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+composer.lock
+
+/user_guide/
+/vendor/
+
+api.client/app/start.php
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
+
+#Codeigniter config
+application/config/config.php
+application/config/database.php
+application/config/my_config.php
+
+assets/upload/*
+!assets/upload/index.html
