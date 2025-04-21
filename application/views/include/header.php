@@ -12,7 +12,7 @@
 	<link href="https://unpkg.com/gijgo@1.9.14/css/gijgo.min.css" rel="stylesheet" type="text/css" />
 	
 	<!--Favicon -->
-	<link rel="icon" href="<?= base_url() ?>assets/images/brand/gerserv-favicon.ico" type="image/x-icon"/>
+	<link rel="icon" href="<?= base_url() ?>assets/images/siderbar/construct-icon.png" type="image/x-icon"/>
 
 	<!-- Bootstrap css -->
 	<link href="<?= base_url() ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">

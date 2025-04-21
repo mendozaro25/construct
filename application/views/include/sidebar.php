@@ -15,8 +15,8 @@
 						<a class="header-brand" href="<?= base_url() ?>">
 							<img src="<?= base_url() ?>assets/images/siderbar/gerserv-logo.png" class="header-brand-img desktop-lgo" alt="Sysc logo">
 							<img src="<?= base_url() ?>assets/images/siderbar/gerserv-logo1.png" class="header-brand-img dark-logo" alt="Sysc logo">
-							<img src="<?= base_url() ?>assets/images/siderbar/gerserv-favicon.png" class="header-brand-img mobile-logo" alt="Sysc logo">
-							<img src="<?= base_url() ?>assets/images/siderbar/gerserv-favicon1.png" class="header-brand-img darkmobile-logo" alt="Sysc logo">
+							<img src="<?= base_url() ?>assets/images/siderbar/construct-icon.png" class="header-brand-img mobile-logo" alt="construct-icon">
+							<img src="<?= base_url() ?>assets/images/siderbar/construct-icon.png" class="header-brand-img darkmobile-logo" alt="construct-icon">
 						</a>
 					</div>
 					<div class="app-sidebar__user">
